@@ -13,6 +13,7 @@
 		0018D6DD29BD9FC6004FEAAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0018D6DB29BD9FC6004FEAAA /* Main.storyboard */; };
 		0018D6DF29BD9FC7004FEAAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0018D6DE29BD9FC7004FEAAA /* Assets.xcassets */; };
 		0018D6E229BD9FC7004FEAAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0018D6E029BD9FC7004FEAAA /* LaunchScreen.storyboard */; };
+		0018D6EA29BD9FF5004FEAAA /* fish.png in Resources */ = {isa = PBXBuildFile; fileRef = 0018D6E929BD9FF5004FEAAA /* fish.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0018D6DE29BD9FC7004FEAAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0018D6E129BD9FC7004FEAAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0018D6E329BD9FC7004FEAAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0018D6E929BD9FF5004FEAAA /* fish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		0018D6D429BD9FC6004FEAAA /* test-animation-swift */ = {
 			isa = PBXGroup;
 			children = (
+				0018D6E929BD9FF5004FEAAA /* fish.png */,
 				0018D6D529BD9FC6004FEAAA /* AppDelegate.swift */,
 				0018D6D729BD9FC6004FEAAA /* SceneDelegate.swift */,
 				0018D6D929BD9FC6004FEAAA /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0018D6E229BD9FC7004FEAAA /* LaunchScreen.storyboard in Resources */,
+				0018D6EA29BD9FF5004FEAAA /* fish.png in Resources */,
 				0018D6DF29BD9FC7004FEAAA /* Assets.xcassets in Resources */,
 				0018D6DD29BD9FC6004FEAAA /* Main.storyboard in Resources */,
 			);
